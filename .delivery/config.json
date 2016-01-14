@@ -13,7 +13,8 @@
     "syntax",
     "security",
     "quality",
-    "functional"
+    "functional",
+    "smoke"
   ],
   "build_nodes": {},
   "dependencies": [],
