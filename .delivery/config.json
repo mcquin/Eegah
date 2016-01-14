@@ -14,7 +14,8 @@
     "security",
     "quality",
     "functional",
-    "smoke"
+    "smoke",
+    "publish"
   ],
   "build_nodes": {},
   "dependencies": []
