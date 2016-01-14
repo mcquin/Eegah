@@ -17,10 +17,5 @@
     "smoke"
   ],
   "build_nodes": {},
-  "dependencies": [],
-  "delivery-truck": {
-    "publish": {
-      "github": "mcquin/Eegah"
-    }
-  }
+  "dependencies": []
 }
