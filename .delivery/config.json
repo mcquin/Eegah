@@ -20,7 +20,7 @@
   "dependencies": [],
   "delivery-truck": {
     "publish": {
-      "chef_server": true
+      "github": "mcquin/Eegah"
     }
   }
 }
