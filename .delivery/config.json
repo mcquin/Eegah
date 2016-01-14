@@ -17,5 +17,5 @@
     "functional"
   ],
   "build_nodes": {},
-  "dependencies": ["Eegah"]
+  "dependencies": []
 }
