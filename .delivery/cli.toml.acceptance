@@ -1,0 +1,7 @@
+api_protocol = "https"
+enterprise = "Chef"
+git_port = "8989"
+organization = "Dependencies"
+pipeline = "master"
+server = "delivery-acceptance.shd.chef.co"
+user = "mcquinc"
