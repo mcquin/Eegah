@@ -1,1 +1,1 @@
-default['eegah']['bonk-bonk'] = false
+default['eegah']['bonk-bonk'] = true
