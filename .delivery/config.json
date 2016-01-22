@@ -4,17 +4,9 @@
     "name": "build-cookbook",
     "path": ".delivery/build-cookbook"
   },
-  "skip_phases": [
-    "verify",
-    "unit",
-    "lint",
-    "deploy",
-    "syntax",
-    "security",
-    "quality",
-    "functional",
-    "publish"
-  ],
+  "skip_phases": ["unit", "lint", "syntax",
+                  "quality", "security", "publish",
+                  "provision", "deploy", "functional"],
   "build_nodes": {},
   "dependencies": []
 }
