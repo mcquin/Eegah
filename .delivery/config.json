@@ -6,7 +6,7 @@
   },
   "skip_phases": ["unit", "lint", "syntax",
                   "quality", "security", "publish",
-                  "provision", "deploy", "functional"],
+                  "provision", "deploy", "smoke", "functional"],
   "build_nodes": {},
   "dependencies": []
 }
